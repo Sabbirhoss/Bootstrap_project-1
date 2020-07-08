@@ -1,0 +1,56 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	.titel{
+		font-size: 27px;
+		color: red;
+	}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.titel{
+		font-size: 45px;
+		color: #01A8E7;
+	}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.titel{
+		font-size: 45px;
+		color: #e83e8c;
+	}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.titel{
+		font-size: 55px;
+		color: #17a2b8;
+	}
+
+}
+
+@media (min-width: 1200px) and (max-width: 1499.98px) {
+	.titel{
+		font-size: 70px;
+		color: #01388F;
+	}
+
+}
+
+@media (min-width: 1500px) and (max-width: 1899.98px) {
+	.titel{
+		font-size: 80px;
+		color: #FDFDCA;
+	}
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1900px) {
+	.titel{
+		font-size: 100px;
+		color: black;
+	}
+}

@@ -1,0 +1,13 @@
+.box{
+	min-height: 100px;
+	background-color: #86C538;
+	margin-bottom: 50px;
+}
+.box1{
+	background-color: #F68736;
+}
+.titel{
+	font-size: 60px;
+	color: #fff;
+	text-align: center;
+}
